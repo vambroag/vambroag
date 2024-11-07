@@ -17,7 +17,7 @@
 <a><img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
 
 ## 🗄️ DBMS
-<a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white/"></a>
+<a><img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"></a>
 
 ## 📫 Contact
 <a href="mailto:vambroag@gmail.com"><img src="https://img.shields.io/badge/vambroag@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
